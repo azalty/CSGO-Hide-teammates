@@ -39,7 +39,7 @@ public Plugin myinfo =
 	name = "[CS:GO] Hide teammates", 
 	author = "IT-KiLLER", 
 	description = "A plugin that can !hide teammates with individual distances", 
-	version = "1.2", 
+	version = "1.3-azalty", 
 	url = "https://github.com/IT-KiLLER" 
 } 
 
