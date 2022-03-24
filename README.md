@@ -1,4 +1,4 @@
-# [CS:GO] Hide teammates 1.2
+# [CS:GO] Hide teammates 1.3-azalty
 A plugin that can `!hide` teammates. Probably more **performance friendly** than most plugins like this. This
  plugin has several smart features that make it easier for the player to choose distance and is perfect for laser and boss fight.
 
@@ -26,6 +26,9 @@ A plugin that can `!hide` teammates. Probably more **performance friendly** than
 ### [Download (smx)](https://github.com/IT-KiLLER/CSGO-Hide-teammates/raw/master/hide_teammates.smx)    [Source code (zip)](https://github.com/IT-KiLLER/CSGO-Hide-teammates/archive/master.zip)
 
 ## Change log
+- **1.3-azalty** - 2022-03-24
+  - Fixed teammates staying invisible after dying (https://github.com/IT-KiLLER/CSGO-Hide-teammates/pull/2)
+  - Fixed #3 and improved timer handling (https://github.com/IT-KiLLER/CSGO-Hide-teammates/pull/4)
 - **1.2** - 2018-01-07
   - Added cvar `sm_hide_clientprefs_enabled`
   - Added client preferences
