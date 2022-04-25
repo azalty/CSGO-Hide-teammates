@@ -23,7 +23,7 @@ A plugin that can `!hide` teammates. Probably more **performance friendly** than
   - `sm_hide_team` `1` - *_Which teams should be able to use the command !hide [0=both, 1=CT, 2=T]_*
   
 ## Download
-### [Download (smx)](https://github.com/IT-KiLLER/CSGO-Hide-teammates/raw/master/hide_teammates.smx)    [Source code (zip)](https://github.com/IT-KiLLER/CSGO-Hide-teammates/archive/master.zip)
+### [Download (smx)](https://github.com/azalty/CSGO-Hide-teammates/raw/master-all-patches/hide_teammates.smx)    [Source code (zip)](https://github.com/azalty/CSGO-Hide-teammates/archive/refs/heads/master-all-patches.zip)
 
 ## Change log
 - **1.3-azalty** - 2022-03-24
